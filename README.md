@@ -1,17 +1,16 @@
 ### Who am I?
 
-I'm a systems guy building and programming [Redbooth On-Premise](http://redbooth.com/on-premise/)
+I'm a systems guy "Dockerizing" and automating [Coho Data](http://www.cohodata.com/)
 
 ### Where I live?
 
-Santa Clara (California)
+Barcelona (Spain)
 
 ### What I do?
 
-I try to make our systems dance with Docker, Puppet, CoreOS and Go
+To automate-all-the-things using Docker, Puppet, CoreOS and Go
 
 ### Anything else?
-
 
 * [Karver, migrations for the filesystem](http://karver.github.io)
 * [Docker image for apt-mirror](https://github.com/sgirones/apt-mirror-docker)
