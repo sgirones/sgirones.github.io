@@ -8,7 +8,7 @@ I'm a systems guy building and programming [Redbooth On-Premise](http://redbooth
 
 ### Where I live?
 
-Santa Clara (California)
+Barcelona (Spain)
 
 ### What I do?
 
