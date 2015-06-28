@@ -8,7 +8,7 @@ I'm a Software Engineer "Dockerizing" and automating [Coho Data](http://www.coho
 
 ### Where I live?
 
-Barcelona (Spain)
+Vancouver (Canada)
 
 ### What I do?
 
