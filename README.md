@@ -4,7 +4,7 @@ I'm a systems guy "Dockerizing" and automating [Coho Data](http://www.cohodata.c
 
 ### Where I live?
 
-Barcelona (Spain)
+Vancouver, Canada
 
 ### What I do?
 
